@@ -1,0 +1,9 @@
+To do's
+
+On hours.aiml
+---
+[] Add 'visit' pattern
+
+On General.aiml
+---
+[] Add default responses
