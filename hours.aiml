@@ -1822,6 +1822,646 @@ We are open Mondays through Fridays during Midyear. From 8:00 am to 12:00 nn and
   <template><srai>TUEHRS</srai></template>
 </category>
 
+<category>
+<pattern>VISIT TUESDAY</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT TUESDAY</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * TUESDAY</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT TUESDAY *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * TUESDAY</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * TUESDAY *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT TUESDAY *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * TUESDAY *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT TUESDAYS</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT TUESDAYS</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * TUESDAYS</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT TUESDAYS *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * TUESDAYS</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * TUESDAYS *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT TUESDAYS *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * TUESDAYS *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAY VISIT</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAY VISIT</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAY * VISIT</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAY VISIT *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAY * VISIT</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAY * VISIT *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAY VISIT *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAY * VISIT *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAYS VISIT</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAYS VISIT</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAYS * VISIT</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAYS VISIT *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAYS * VISIT</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAYS * VISIT *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAYS VISIT *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAYS * VISIT *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING TUESDAY</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING TUESDAY</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * TUESDAY</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING TUESDAY *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * TUESDAY</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * TUESDAY *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING TUESDAY *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * TUESDAY *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING TUESDAYS</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING TUESDAYS</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * TUESDAYS</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING TUESDAYS *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * TUESDAYS</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * TUESDAYS *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING TUESDAYS *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * TUESDAYS *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAY VISITING</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAY VISITING</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAY * VISITING</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAY VISITING *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAY * VISITING</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAY * VISITING *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAY VISITING *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAY * VISITING *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAYS VISITING</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAYS VISITING</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAYS * VISITING</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAYS VISITING *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAYS * VISITING</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAYS * VISITING *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAYS VISITING *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAYS * VISITING *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO TUESDAY</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO TUESDAY</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * TUESDAY</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO TUESDAY *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * TUESDAY</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * TUESDAY *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO TUESDAY *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * TUESDAY *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO TUESDAYS</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO TUESDAYS</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * TUESDAYS</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO TUESDAYS *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * TUESDAYS</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * TUESDAYS *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO TUESDAYS *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * TUESDAYS *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAY GO TO</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAY GO TO</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAY * GO TO</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAY GO TO *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAY * GO TO</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAY * GO TO *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAY GO TO *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAY * GO TO *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAYS GO TO</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAYS GO TO</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAYS * GO TO</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAYS GO TO *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAYS * GO TO</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAYS * GO TO *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAYS GO TO *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAYS * GO TO *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON TUESDAY</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON TUESDAY</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * TUESDAY</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON TUESDAY *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * TUESDAY</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * TUESDAY *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON TUESDAY *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * TUESDAY *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON TUESDAYS</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON TUESDAYS</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * TUESDAYS</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON TUESDAYS *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * TUESDAYS</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * TUESDAYS *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON TUESDAYS *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * TUESDAYS *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAY GO ON</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAY GO ON</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAY * GO ON</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAY GO ON *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAY * GO ON</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAY * GO ON *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAY GO ON *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAY * GO ON *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAYS GO ON</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAYS GO ON</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAYS * GO ON</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAYS GO ON *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAYS * GO ON</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>TUESDAYS * GO ON *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAYS GO ON *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
+<category>
+<pattern>* TUESDAYS * GO ON *</pattern>
+  <template><srai>TUEHRS</srai></template>
+</category>
+
 <!--DAILY HRS WED-->
 
 <category>
@@ -2382,6 +3022,646 @@ We are open Mondays through Fridays during Midyear. From 8:00 am to 12:00 nn and
 
 <category>
 <pattern>* OPENED * WEDNESDAYS *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT WEDNESDAY</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT WEDNESDAY</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * WEDNESDAY</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT WEDNESDAY *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * WEDNESDAY</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * WEDNESDAY *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT WEDNESDAY *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * WEDNESDAY *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT WEDNESDAYS</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT WEDNESDAYS</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * WEDNESDAYS</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT WEDNESDAYS *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * WEDNESDAYS</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * WEDNESDAYS *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT WEDNESDAYS *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * WEDNESDAYS *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAY VISIT</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAY VISIT</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAY * VISIT</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAY VISIT *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAY * VISIT</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAY * VISIT *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAY VISIT *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAY * VISIT *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAYS VISIT</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAYS VISIT</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAYS * VISIT</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAYS VISIT *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAYS * VISIT</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAYS * VISIT *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAYS VISIT *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAYS * VISIT *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING WEDNESDAY</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING WEDNESDAY</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * WEDNESDAY</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING WEDNESDAY *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * WEDNESDAY</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * WEDNESDAY *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING WEDNESDAY *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * WEDNESDAY *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING WEDNESDAYS</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING WEDNESDAYS</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * WEDNESDAYS</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING WEDNESDAYS *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * WEDNESDAYS</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * WEDNESDAYS *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING WEDNESDAYS *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * WEDNESDAYS *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAY VISITING</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAY VISITING</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAY * VISITING</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAY VISITING *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAY * VISITING</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAY * VISITING *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAY VISITING *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAY * VISITING *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAYS VISITING</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAYS VISITING</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAYS * VISITING</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAYS VISITING *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAYS * VISITING</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAYS * VISITING *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAYS VISITING *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAYS * VISITING *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO WEDNESDAY</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO WEDNESDAY</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * WEDNESDAY</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO WEDNESDAY *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * WEDNESDAY</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * WEDNESDAY *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO WEDNESDAY *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * WEDNESDAY *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO WEDNESDAYS</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO WEDNESDAYS</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * WEDNESDAYS</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO WEDNESDAYS *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * WEDNESDAYS</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * WEDNESDAYS *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO WEDNESDAYS *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * WEDNESDAYS *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAY GO TO</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAY GO TO</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAY * GO TO</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAY GO TO *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAY * GO TO</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAY * GO TO *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAY GO TO *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAY * GO TO *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAYS GO TO</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAYS GO TO</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAYS * GO TO</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAYS GO TO *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAYS * GO TO</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAYS * GO TO *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAYS GO TO *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAYS * GO TO *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON WEDNESDAY</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON WEDNESDAY</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * WEDNESDAY</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON WEDNESDAY *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * WEDNESDAY</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * WEDNESDAY *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON WEDNESDAY *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * WEDNESDAY *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON WEDNESDAYS</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON WEDNESDAYS</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * WEDNESDAYS</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON WEDNESDAYS *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * WEDNESDAYS</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * WEDNESDAYS *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON WEDNESDAYS *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * WEDNESDAYS *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAY GO ON</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAY GO ON</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAY * GO ON</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAY GO ON *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAY * GO ON</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAY * GO ON *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAY GO ON *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAY * GO ON *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAYS GO ON</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAYS GO ON</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAYS * GO ON</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAYS GO ON *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAYS * GO ON</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>WEDNESDAYS * GO ON *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAYS GO ON *</pattern>
+  <template><srai>WEDHRS</srai></template>
+</category>
+
+<category>
+<pattern>* WEDNESDAYS * GO ON *</pattern>
   <template><srai>WEDHRS</srai></template>
 </category>
 
@@ -2948,6 +4228,646 @@ We are open Mondays through Fridays during Midyear. From 8:00 am to 12:00 nn and
   <template><srai>THURHRS</srai></template>
 </category>
 
+<category>
+<pattern>VISIT THURSDAY</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT THURSDAY</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * THURSDAY</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT THURSDAY *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * THURSDAY</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * THURSDAY *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT THURSDAY *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * THURSDAY *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT THURSDAYS</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT THURSDAYS</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * THURSDAYS</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT THURSDAYS *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * THURSDAYS</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * THURSDAYS *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT THURSDAYS *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * THURSDAYS *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAY VISIT</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAY VISIT</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAY * VISIT</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAY VISIT *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAY * VISIT</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAY * VISIT *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAY VISIT *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAY * VISIT *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAYS VISIT</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAYS VISIT</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAYS * VISIT</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAYS VISIT *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAYS * VISIT</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAYS * VISIT *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAYS VISIT *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAYS * VISIT *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING THURSDAY</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING THURSDAY</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * THURSDAY</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING THURSDAY *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * THURSDAY</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * THURSDAY *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING THURSDAY *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * THURSDAY *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING THURSDAYS</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING THURSDAYS</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * THURSDAYS</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING THURSDAYS *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * THURSDAYS</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * THURSDAYS *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING THURSDAYS *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * THURSDAYS *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAY VISITING</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAY VISITING</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAY * VISITING</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAY VISITING *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAY * VISITING</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAY * VISITING *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAY VISITING *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAY * VISITING *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAYS VISITING</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAYS VISITING</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAYS * VISITING</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAYS VISITING *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAYS * VISITING</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAYS * VISITING *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAYS VISITING *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAYS * VISITING *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO THURSDAY</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO THURSDAY</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * THURSDAY</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO THURSDAY *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * THURSDAY</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * THURSDAY *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO THURSDAY *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * THURSDAY *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO THURSDAYS</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO THURSDAYS</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * THURSDAYS</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO THURSDAYS *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * THURSDAYS</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * THURSDAYS *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO THURSDAYS *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * THURSDAYS *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAY GO TO</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAY GO TO</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAY * GO TO</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAY GO TO *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAY * GO TO</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAY * GO TO *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAY GO TO *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAY * GO TO *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAYS GO TO</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAYS GO TO</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAYS * GO TO</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAYS GO TO *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAYS * GO TO</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAYS * GO TO *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAYS GO TO *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAYS * GO TO *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON THURSDAY</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON THURSDAY</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * THURSDAY</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON THURSDAY *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * THURSDAY</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * THURSDAY *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON THURSDAY *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * THURSDAY *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON THURSDAYS</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON THURSDAYS</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * THURSDAYS</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON THURSDAYS *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * THURSDAYS</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * THURSDAYS *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON THURSDAYS *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * THURSDAYS *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAY GO ON</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAY GO ON</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAY * GO ON</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAY GO ON *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAY * GO ON</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAY * GO ON *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAY GO ON *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAY * GO ON *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAYS GO ON</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAYS GO ON</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAYS * GO ON</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAYS GO ON *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAYS * GO ON</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>THURSDAYS * GO ON *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAYS GO ON *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
+<category>
+<pattern>* THURSDAYS * GO ON *</pattern>
+  <template><srai>THURHRS</srai></template>
+</category>
+
 <!--DAILY HRS FRI-->
 
 <category>
@@ -3508,6 +5428,646 @@ We are open Mondays through Fridays during Midyear. From 8:00 am to 12:00 nn and
 
 <category>
 <pattern>* OPENED * FRIDAYS *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT FRIDAY</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT FRIDAY</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * FRIDAY</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT FRIDAY *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * FRIDAY</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * FRIDAY *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT FRIDAY *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * FRIDAY *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT FRIDAYS</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT FRIDAYS</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * FRIDAYS</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT FRIDAYS *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * FRIDAYS</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * FRIDAYS *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT FRIDAYS *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * FRIDAYS *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAY VISIT</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAY VISIT</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAY * VISIT</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAY VISIT *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAY * VISIT</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAY * VISIT *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAY VISIT *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAY * VISIT *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAYS VISIT</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAYS VISIT</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAYS * VISIT</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAYS VISIT *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAYS * VISIT</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAYS * VISIT *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAYS VISIT *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAYS * VISIT *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING FRIDAY</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING FRIDAY</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * FRIDAY</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING FRIDAY *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * FRIDAY</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * FRIDAY *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING FRIDAY *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * FRIDAY *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING FRIDAYS</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING FRIDAYS</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * FRIDAYS</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING FRIDAYS *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * FRIDAYS</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * FRIDAYS *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING FRIDAYS *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * FRIDAYS *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAY VISITING</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAY VISITING</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAY * VISITING</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAY VISITING *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAY * VISITING</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAY * VISITING *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAY VISITING *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAY * VISITING *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAYS VISITING</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAYS VISITING</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAYS * VISITING</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAYS VISITING *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAYS * VISITING</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAYS * VISITING *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAYS VISITING *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAYS * VISITING *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO FRIDAY</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO FRIDAY</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * FRIDAY</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO FRIDAY *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * FRIDAY</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * FRIDAY *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO FRIDAY *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * FRIDAY *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO FRIDAYS</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO FRIDAYS</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * FRIDAYS</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO FRIDAYS *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * FRIDAYS</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * FRIDAYS *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO FRIDAYS *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * FRIDAYS *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAY GO TO</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAY GO TO</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAY * GO TO</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAY GO TO *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAY * GO TO</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAY * GO TO *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAY GO TO *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAY * GO TO *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAYS GO TO</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAYS GO TO</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAYS * GO TO</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAYS GO TO *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAYS * GO TO</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAYS * GO TO *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAYS GO TO *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAYS * GO TO *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON FRIDAY</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON FRIDAY</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * FRIDAY</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON FRIDAY *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * FRIDAY</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * FRIDAY *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON FRIDAY *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * FRIDAY *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON FRIDAYS</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON FRIDAYS</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * FRIDAYS</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON FRIDAYS *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * FRIDAYS</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * FRIDAYS *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON FRIDAYS *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * FRIDAYS *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAY GO ON</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAY GO ON</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAY * GO ON</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAY GO ON *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAY * GO ON</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAY * GO ON *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAY GO ON *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAY * GO ON *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAYS GO ON</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAYS GO ON</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAYS * GO ON</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAYS GO ON *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAYS * GO ON</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>FRIDAYS * GO ON *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAYS GO ON *</pattern>
+  <template><srai>FRIHRS</srai></template>
+</category>
+
+<category>
+<pattern>* FRIDAYS * GO ON *</pattern>
   <template><srai>FRIHRS</srai></template>
 </category>
 
@@ -4073,6 +6633,646 @@ We are open Mondays through Fridays during Midyear. From 8:00 am to 12:00 nn and
   <template><srai>SATHRS</srai></template>
 </category>
 
+<category>
+<pattern>VISIT SATURDAY</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT SATURDAY</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * SATURDAY</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT SATURDAY *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * SATURDAY</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * SATURDAY *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT SATURDAY *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * SATURDAY *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT SATURDAYS</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT SATURDAYS</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * SATURDAYS</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT SATURDAYS *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * SATURDAYS</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * SATURDAYS *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT SATURDAYS *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * SATURDAYS *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAY VISIT</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAY VISIT</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAY * VISIT</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAY VISIT *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAY * VISIT</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAY * VISIT *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAY VISIT *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAY * VISIT *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAYS VISIT</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAYS VISIT</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAYS * VISIT</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAYS VISIT *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAYS * VISIT</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAYS * VISIT *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAYS VISIT *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAYS * VISIT *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING SATURDAY</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING SATURDAY</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * SATURDAY</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING SATURDAY *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * SATURDAY</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * SATURDAY *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING SATURDAY *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * SATURDAY *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING SATURDAYS</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING SATURDAYS</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * SATURDAYS</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING SATURDAYS *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * SATURDAYS</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * SATURDAYS *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING SATURDAYS *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * SATURDAYS *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAY VISITING</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAY VISITING</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAY * VISITING</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAY VISITING *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAY * VISITING</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAY * VISITING *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAY VISITING *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAY * VISITING *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAYS VISITING</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAYS VISITING</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAYS * VISITING</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAYS VISITING *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAYS * VISITING</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAYS * VISITING *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAYS VISITING *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAYS * VISITING *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO SATURDAY</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO SATURDAY</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * SATURDAY</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO SATURDAY *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * SATURDAY</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * SATURDAY *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO SATURDAY *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * SATURDAY *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO SATURDAYS</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO SATURDAYS</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * SATURDAYS</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO SATURDAYS *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * SATURDAYS</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * SATURDAYS *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO SATURDAYS *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * SATURDAYS *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAY GO TO</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAY GO TO</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAY * GO TO</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAY GO TO *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAY * GO TO</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAY * GO TO *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAY GO TO *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAY * GO TO *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAYS GO TO</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAYS GO TO</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAYS * GO TO</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAYS GO TO *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAYS * GO TO</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAYS * GO TO *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAYS GO TO *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAYS * GO TO *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON SATURDAY</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON SATURDAY</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * SATURDAY</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON SATURDAY *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * SATURDAY</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * SATURDAY *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON SATURDAY *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * SATURDAY *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON SATURDAYS</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON SATURDAYS</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * SATURDAYS</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON SATURDAYS *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * SATURDAYS</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * SATURDAYS *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON SATURDAYS *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * SATURDAYS *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAY GO ON</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAY GO ON</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAY * GO ON</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAY GO ON *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAY * GO ON</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAY * GO ON *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAY GO ON *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAY * GO ON *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAYS GO ON</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAYS GO ON</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAYS * GO ON</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAYS GO ON *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAYS * GO ON</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>SATURDAYS * GO ON *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAYS GO ON *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SATURDAYS * GO ON *</pattern>
+  <template><srai>SATHRS</srai></template>
+</category>
+
 <!--DAILY HRS SUN-->
 
 <category>
@@ -4635,6 +7835,646 @@ We are open Mondays through Fridays during Midyear. From 8:00 am to 12:00 nn and
   <template><srai>SUNHRS</srai></template>
 </category>
 
+<category>
+<pattern>VISIT SUNDAY</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT SUNDAY</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * SUNDAY</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT SUNDAY *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * SUNDAY</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * SUNDAY *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT SUNDAY *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * SUNDAY *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT SUNDAYS</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT SUNDAYS</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * SUNDAYS</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT SUNDAYS *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * SUNDAYS</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT * SUNDAYS *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT SUNDAYS *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT * SUNDAYS *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAY VISIT</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAY VISIT</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAY * VISIT</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAY VISIT *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAY * VISIT</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAY * VISIT *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAY VISIT *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAY * VISIT *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAYS VISIT</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAYS VISIT</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAYS * VISIT</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAYS VISIT *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAYS * VISIT</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAYS * VISIT *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAYS VISIT *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAYS * VISIT *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING SUNDAY</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING SUNDAY</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * SUNDAY</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING SUNDAY *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * SUNDAY</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * SUNDAY *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING SUNDAY *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * SUNDAY *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING SUNDAYS</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING SUNDAYS</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * SUNDAYS</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING SUNDAYS *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * SUNDAYS</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING * SUNDAYS *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING SUNDAYS *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING * SUNDAYS *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAY VISITING</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAY VISITING</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAY * VISITING</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAY VISITING *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAY * VISITING</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAY * VISITING *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAY VISITING *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAY * VISITING *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAYS VISITING</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAYS VISITING</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAYS * VISITING</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAYS VISITING *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAYS * VISITING</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAYS * VISITING *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAYS VISITING *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAYS * VISITING *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO SUNDAY</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO SUNDAY</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * SUNDAY</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO SUNDAY *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * SUNDAY</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * SUNDAY *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO SUNDAY *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * SUNDAY *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO SUNDAYS</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO SUNDAYS</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * SUNDAYS</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO SUNDAYS *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * SUNDAYS</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO * SUNDAYS *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO SUNDAYS *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO * SUNDAYS *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAY GO TO</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAY GO TO</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAY * GO TO</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAY GO TO *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAY * GO TO</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAY * GO TO *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAY GO TO *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAY * GO TO *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAYS GO TO</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAYS GO TO</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAYS * GO TO</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAYS GO TO *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAYS * GO TO</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAYS * GO TO *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAYS GO TO *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAYS * GO TO *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON SUNDAY</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON SUNDAY</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * SUNDAY</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON SUNDAY *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * SUNDAY</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * SUNDAY *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON SUNDAY *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * SUNDAY *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON SUNDAYS</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON SUNDAYS</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * SUNDAYS</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON SUNDAYS *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * SUNDAYS</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON * SUNDAYS *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON SUNDAYS *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON * SUNDAYS *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAY GO ON</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAY GO ON</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAY * GO ON</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAY GO ON *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAY * GO ON</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAY * GO ON *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAY GO ON *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAY * GO ON *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAYS GO ON</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAYS GO ON</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAYS * GO ON</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAYS GO ON *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAYS * GO ON</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>SUNDAYS * GO ON *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAYS GO ON *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
+<category>
+<pattern>* SUNDAYS * GO ON *</pattern>
+  <template><srai>SUNHRS</srai></template>
+</category>
+
 <!--General Hours-->
 
 <category>
@@ -4694,6 +8534,66 @@ We are open Mondays through Fridays during Midyear. From 8:00 am to 12:00 nn and
 
 <category>
 <pattern>* OPEN *</pattern>
+  <template><srai>HRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT</pattern>
+  <template><srai>HRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT</pattern>
+  <template><srai>HRS</srai></template>
+</category>
+
+<category>
+<pattern>VISIT *</pattern>
+  <template><srai>HRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISIT *</pattern>
+  <template><srai>HRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING</pattern>
+  <template><srai>HRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING</pattern>
+  <template><srai>HRS</srai></template>
+</category>
+
+<category>
+<pattern>VISITING *</pattern>
+  <template><srai>HRS</srai></template>
+</category>
+
+<category>
+<pattern>* VISITING *</pattern>
+  <template><srai>HRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO</pattern>
+  <template><srai>HRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO</pattern>
+  <template><srai>HRS</srai></template>
+</category>
+
+<category>
+<pattern>GO TO *</pattern>
+  <template><srai>HRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO TO *</pattern>
   <template><srai>HRS</srai></template>
 </category>
 
