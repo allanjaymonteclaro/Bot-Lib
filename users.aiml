@@ -49,4 +49,44 @@
 <template><srai>USER</srai></template>
 </category>
 
+<category>
+<pattern>LIBRARY USERS</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>* LIBRARY USERS</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>LIBRARY * USERS</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>LIBRARY USERS *</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>* LIBRARY * USERS</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>LIBRARY * USERS *</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>* LIBRARY USERS *</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>* LIBRARY * USERS *</pattern>
+<template><srai>USER</srai></template>
+</category>
+
 </aiml>
