@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+<pattern>USER</pattern>
+<template>Students who are currently enrolled, regular Faculty and Staff of UP may use the library upon presentation of a valid ID issued by the college library or mother campus.</template>
+</category>
+
+
+<!--SRAIS-->
+
+<category>
+<pattern>LIBRARY USER</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>* LIBRARY USER</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>LIBRARY * USER</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>LIBRARY USER *</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>* LIBRARY * USER</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>LIBRARY * USER *</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>* LIBRARY USER *</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>* LIBRARY * USER *</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+</aiml>
