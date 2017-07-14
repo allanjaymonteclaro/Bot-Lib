@@ -8597,4 +8597,24 @@ We are open Mondays through Fridays during Midyear. From 8:00 am to 12:00 nn and
   <template><srai>HRS</srai></template>
 </category>
 
+<category>
+<pattern>GO ON</pattern>
+  <template><srai>HRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON</pattern>
+  <template><srai>HRS</srai></template>
+</category>
+
+<category>
+<pattern>GO ON *</pattern>
+  <template><srai>HRS</srai></template>
+</category>
+
+<category>
+<pattern>* GO ON *</pattern>
+  <template><srai>HRS</srai></template>
+</category>
+
 </aiml>

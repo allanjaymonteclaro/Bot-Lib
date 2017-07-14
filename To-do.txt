@@ -2,7 +2,7 @@ To do's
 
 On hours.aiml
 ---
-[] Add 'visit' pattern
+[x] Add 'visit' pattern
 
 On General.aiml
 ---
