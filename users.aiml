@@ -89,4 +89,108 @@
 <template><srai>USER</srai></template>
 </category>
 
+<category>
+<pattern>USE LIBRARY</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>* USE LIBRARY</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>USE * LIBRARY</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>USE LIBRARY *</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>* USE * LIBRARY</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>USE * LIBRARY *</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>* USE LIBRARY *</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>* USE * LIBRARY *</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>CAN USE LIBRARY</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>* CAN USE LIBRARY</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>CAN * USE LIBRARY</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>CAN USE * LIBRARY</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>CAN USE LIBRARY *</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>* CAN * USE LIBRARY</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>CAN * USE * LIBRARY</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>CAN USE * LIBRARY *</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>* CAN * USE * LIBRARY</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>* CAN * USE LIBRARY *</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>* CAN USE * LIBRARY *</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>CAN * USE * LIBRARY *</pattern>
+<template><srai>USER</srai></template>
+</category>
+
+<category>
+<pattern>* CAN * USE * LIBRARY *</pattern>
+<template><srai>USER</srai></template>
+</category>
 </aiml>
