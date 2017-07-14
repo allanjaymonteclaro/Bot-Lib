@@ -4,6 +4,11 @@ On hours.aiml
 ---
 [x] Add 'visit' pattern
 
+On users.aiml
+---
+[] add user type option
+
 On General.aiml
 ---
 [] Add default responses
+

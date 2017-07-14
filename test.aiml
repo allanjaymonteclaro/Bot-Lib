@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+<pattern>TEST</pattern>
+<template>I'm testing a <button value="Button clicked">button</button>.</template>
+</category>
+
+<category>
+<pattern>BUTTON</pattern>
+<template>You clicked the button!</template>
+</category>
+
+<category>
+<pattern>Button clicked</pattern>
+<template><srai>BUTTON</srai></template>
+</category>
+</aiml>
