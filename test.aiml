@@ -3,16 +3,27 @@
 
 <category>
 <pattern>TEST</pattern>
-<template>I'm testing a <button value="Button clicked">button</button>.</template>
+<template>Choose: 
+	<select>
+		<option>Option 1</option>
+		<option>Option 2</option>
+		<option>Option 3</option>
+	</select>
+</template>
 </category>
 
 <category>
-<pattern>BUTTON</pattern>
-<template>You clicked the button!</template>
+	<pattern>OPTION 1</pattern>
+	<template>Hello there, Option 1!</template>
 </category>
 
 <category>
-<pattern>Button clicked</pattern>
-<template><srai>BUTTON</srai></template>
+	<pattern>OPTION 2</pattern>
+	<template>Hello there, Option 2!</template>
+</category>
+
+<category>
+	<pattern>OPTION 2</pattern>
+	<template>Hello there, Option 2!</template>
 </category>
 </aiml>
